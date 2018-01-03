@@ -1,6 +1,6 @@
 ## Assignments for Coursera - HTML, CSS & JavaScript for Web Developers
 
-### MODULE 2 
+### Module 2
 
-(https://pyramid27.github.io/CourseraAssignments/mod2_solution/)
+<https://pyramid27.github.io/CourseraAssignments/mod2_solution/>
 
